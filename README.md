@@ -4,9 +4,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 ## Front-end activities
 
-###  Projects
-
-### [1. Tribute Page Project ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+#### [1. Tribute Page Project ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
 ![Screenshot](./images/alan_turing.png)
 
@@ -64,8 +62,6 @@ This repo is a representation of all the activities I completed throughout the d
    - [whats-my-address](https://github.com/Jmnahan/avion-school-activities)
 
 ## Back-end activities
-
-### Projects
 
 #### [1. Blog App ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
