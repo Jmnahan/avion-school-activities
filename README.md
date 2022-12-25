@@ -85,10 +85,10 @@ This repo is a representation of all the activities I completed throughout the d
 ### Ruby exercises
 
 1. Control flow 
-    - [check-arr](https://github.com/Jmnahan/avion-school-activities)
-    - [divisible](https://github.com/Jmnahan/avion-school-activities)
-    - [hundred](https://github.com/Jmnahan/avion-school-activities)
-    - [options](https://github.com/Jmnahan/avion-school-activities)
+    - [check-arr](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/check_arr.rb)
+    - [divisible](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/divisible.rb)
+    - [hundred](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/hundred.rb)
+    - [options](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/options.rb)
 
 2. Data types 
     - [age](https://github.com/Jmnahan/avion-school-activities)
