@@ -50,12 +50,15 @@ This repo is a representation of all the activities I completed throughout the d
     - [be-the-bouncer](https://github.com/Jmnahan/avion-school-activities)
     - [blue-team-vs-red-team](https://github.com/Jmnahan/avion-school-activities)
     - [color-my-chessboard](https://github.com/Jmnahan/avion-school-activities)
+
 2. Intro to functions and methods
     - [help-wall-e](https://github.com/Jmnahan/avion-school-activities)
     - [schools-out](https://github.com/Jmnahan/avion-school-activities)
     - [whats-in-the-fridge](https://github.com/Jmnahan/avion-school-activities)
+
 3. Intro to dom
     - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities)
+
 4. ES6 
    - [async-await](https://github.com/Jmnahan/avion-school-activities)
    - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities)
@@ -86,11 +89,13 @@ This repo is a representation of all the activities I completed throughout the d
     - [divisible](https://github.com/Jmnahan/avion-school-activities)
     - [hundred](https://github.com/Jmnahan/avion-school-activities)
     - [options](https://github.com/Jmnahan/avion-school-activities)
+
 2. Data types 
     - [age](https://github.com/Jmnahan/avion-school-activities)
     - [contact](https://github.com/Jmnahan/avion-school-activities)
     - [each](https://github.com/Jmnahan/avion-school-activities)
     - [hash](https://github.com/Jmnahan/avion-school-activities)
+
 3. OOP 
     - [abstaction](https://github.com/Jmnahan/avion-school-activities)
     - [encapsulation](https://github.com/Jmnahan/avion-school-activities)
@@ -98,9 +103,11 @@ This repo is a representation of all the activities I completed throughout the d
     - [missing code](https://github.com/Jmnahan/avion-school-activities)
     - [make-obj](https://github.com/Jmnahan/avion-school-activities)
     - [confection](https://github.com/Jmnahan/avion-school-activities)
+
 4. Postgresql
     - [sql students](https://github.com/Jmnahan/avion-school-activities)
     - [sql classrooms](https://github.com/Jmnahan/avion-school-activities)
+    
 5. SOLID Principle
     - [single responsibility](https://github.com/Jmnahan/avion-school-activities)
     - [open close](https://github.com/Jmnahan/avion-school-activities)
