@@ -66,19 +66,19 @@ This repo is a representation of all the activities I completed throughout the d
 
 ## Back-end activities
 
-#### [1. Blog App ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+#### [1. Blog App ](https://github.com/Jmnahan/blog)
 
 
 
-#### [2. Journal App ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+#### [2. Journal App ](https://github.com/Jmnahan/journal_app)
 
 
 
-#### [3. Trading App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+#### [3. Trading App (Collaboration project) ](https://github.com/Jmnahan/trading_app)
 
 
 
-#### [4. Capstone Project (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+#### [4. Capstone Project (Collaboration project) ]
 
 
 
