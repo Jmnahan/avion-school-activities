@@ -26,16 +26,16 @@ This repo is a representation of all the activities I completed throughout the d
 
 #### [6. Bank App ](https://jmnahan.github.io/batch22-fe-activities/bank-app/)
 ##### Sample Account: 
-``
-email: juan@gmail.com
-password: 12345678
-account number: 215488233578
+1. First Account
+    - email: juan@gmail.com
+    - password: 12345678
+    - account number: 215488233578
 
-email: maria@gmail.com
-password: 12345678
-account number: 817826505047
-
-``
+2. Second Account:
+    - email: maria@gmail.com
+    - password: 12345678
+    - account number: 817826505047
+    
 ![Screenshot](./images/bank_app.png)
 
 #### [7. Chessboard App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/chessboard-app/)
