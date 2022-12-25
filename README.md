@@ -25,7 +25,7 @@ This repo is a representation of all the activities I completed throughout the d
 ![Screenshot](./images/tic-tac-toe-app.png)
 
 #### [6. Bank App ](https://jmnahan.github.io/batch22-fe-activities/bank-app/)
-##### Sample Account: 
+##### Sample Accounts: 
 1. First Account
     - email: juan@gmail.com
     - password: 12345678
@@ -35,7 +35,7 @@ This repo is a representation of all the activities I completed throughout the d
     - email: maria@gmail.com
     - password: 12345678
     - account number: 817826505047
-    
+
 ![Screenshot](./images/bank_app.png)
 
 #### [7. Chessboard App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/chessboard-app/)
@@ -45,6 +45,9 @@ This repo is a representation of all the activities I completed throughout the d
 
 #### [8. Lax App/Slack App (Collaboration project) ]
 - [Code repo](https://github.com/Jmnahan/lax-app)
+1. Sample Account:
+    - email: testinguser11@das.com
+    - password: 123456
 
 #### [9. Flexbox Activity  ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
 
