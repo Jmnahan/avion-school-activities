@@ -1,0 +1,39 @@
+CREATE TABLE classrooms(
+id SERIAL PRIMARY KEY,
+student_id INTEGER,
+section TEXT
+);
+
+------------------------------------------------------------------
+
+INSERT INTO
+classrooms(student_id, section)
+VALUES
+(1, 'A'),
+(2, 'A'),
+(3, 'B'),
+(4, 'C'),
+(5, 'B'),
+(6, 'A'),
+(7, 'C'),
+(8, 'B'),
+(9, 'B'),
+(10, 'C');
+
+------------------------------------------------------------------
+
+Inner Join
+SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM students s INNER JOIN classrooms c ON c.student_id = s.id;
+
+Left Join
+SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM
+students s LEFT JOIN classrooms c on c.student_id = s.id;
+
+Right Join 
+SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM
+students s RIGHT JOIN classrooms c on c.student_id = s.id;
+
+Full Join
+SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM
+students s FULL JOIN classrooms c on c.student_id = s.id;
+

@@ -65,19 +65,19 @@ This repo is a representation of all the activities I completed throughout the d
 
 #### [1. Blog App ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
-![Screenshot](./images/alan_turing.png)
+
 
 #### [2. Journal App ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
-![Screenshot](./images/alan_turing.png)
+
 
 #### [3. Trading App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
-![Screenshot](./images/alan_turing.png)
+
 
 #### [4. Capstone Project (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
-![Screenshot](./images/alan_turing.png)
+
 
 ### Ruby exercises
 
