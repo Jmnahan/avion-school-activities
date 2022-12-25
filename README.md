@@ -31,7 +31,7 @@ This repo is a representation of all the activities I completed throughout the d
     - password: 12345678
     - account number: 215488233578
 
-2. Second Account:
+2. Second Account
     - email: maria@gmail.com
     - password: 12345678
     - account number: 817826505047
@@ -45,7 +45,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 #### [8. Lax App/Slack App (Collaboration project) ]
 - [Code repo](https://github.com/Jmnahan/lax-app)
-1. Sample Account:
+1. Sample User:
     - email: testinguser11@das.com
     - password: 123456
 
