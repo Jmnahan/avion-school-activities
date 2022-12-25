@@ -49,19 +49,19 @@ This repo is a representation of all the activities I completed throughout the d
 ### JavaScript exercises
 
 1. Intro to loops
-    - [be-the-bouncer]
-    - [blue-team-vs-red-team]
-    - [color-my-chessboard]
+    - [be-the-bouncer](https://github.com/Jmnahan/avion-school-activities)
+    - [blue-team-vs-red-team](https://github.com/Jmnahan/avion-school-activities)
+    - [color-my-chessboard](https://github.com/Jmnahan/avion-school-activities)
 2. Intro to functions and methods
-    - [help-wall-e]
-    - [schools-out]
-    - [whats-in-the-fridge]
+    - [help-wall-e](https://github.com/Jmnahan/avion-school-activities)
+    - [schools-out](https://github.com/Jmnahan/avion-school-activities)
+    - [whats-in-the-fridge](https://github.com/Jmnahan/avion-school-activities)
 3. Intro to dom
-    - [name-that-superpower]
+    - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities)
 4. ES6 
-   - [async-await]
-   - [catch-the-spy]
-   - [whats-my-address]
+   - [async-await](https://github.com/Jmnahan/avion-school-activities)
+   - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities)
+   - [whats-my-address](https://github.com/Jmnahan/avion-school-activities)
 
 ## Back-end activities
 
@@ -86,44 +86,44 @@ This repo is a representation of all the activities I completed throughout the d
 ### Ruby exercises
 
 1. Control flow 
-    - [check-arr]
-    - [divisible]
-    - [hundred]
-    - [options]
+    - [check-arr](https://github.com/Jmnahan/avion-school-activities)
+    - [divisible](https://github.com/Jmnahan/avion-school-activities)
+    - [hundred](https://github.com/Jmnahan/avion-school-activities)
+    - [options](https://github.com/Jmnahan/avion-school-activities)
 2. Data types 
-    - [age]
-    - [contact]
-    - [each]
-    - [hash]
+    - [age](https://github.com/Jmnahan/avion-school-activities)
+    - [contact](https://github.com/Jmnahan/avion-school-activities)
+    - [each](https://github.com/Jmnahan/avion-school-activities)
+    - [hash](https://github.com/Jmnahan/avion-school-activities)
 3. OOP 
-    - [abstaction]
-    - [encapsulation]
-    - [polymorph]
-    - [missing code]
-    - [make-obj]
-    - [confection]
+    - [abstaction](https://github.com/Jmnahan/avion-school-activities)
+    - [encapsulation](https://github.com/Jmnahan/avion-school-activities)
+    - [polymorph](https://github.com/Jmnahan/avion-school-activities)
+    - [missing code](https://github.com/Jmnahan/avion-school-activities)
+    - [make-obj](https://github.com/Jmnahan/avion-school-activities)
+    - [confection](https://github.com/Jmnahan/avion-school-activities)
 4. Postgresql
-    - [sql students]
-    - [sql classrooms]
+    - [sql students](https://github.com/Jmnahan/avion-school-activities)
+    - [sql classrooms](https://github.com/Jmnahan/avion-school-activities)
 5. SOLID Principle
-    - [single responsibility]
-    - [open close]
-    - [liskov]
-    - [int seg]
-    - [dep inv]
+    - [single responsibility](https://github.com/Jmnahan/avion-school-activities)
+    - [open close](https://github.com/Jmnahan/avion-school-activities)
+    - [liskov](https://github.com/Jmnahan/avion-school-activities)
+    - [int seg](https://github.com/Jmnahan/avion-school-activities)
+    - [dep inv](https://github.com/Jmnahan/avion-school-activities)
 
 ### Coding exercises
- - [Square of squares]
- - [Smallest interger]
- - [Postive and negatives]
- - [Hydrated]
- - [Isograms]
- - [Uniq in order]
- - [Disemvowel]
- - [Century]
- - [Bart and Lisa]
- - [Vowel code]
- - [Unique number]
- - [Middle element]
- - [Sorted]
- - [Count letters]
+ - [Square of squares](https://github.com/Jmnahan/avion-school-activities)
+ - [Smallest interger](https://github.com/Jmnahan/avion-school-activities)
+ - [Postive and negatives](https://github.com/Jmnahan/avion-school-activities)
+ - [Hydrated](https://github.com/Jmnahan/avion-school-activities)
+ - [Isograms](https://github.com/Jmnahan/avion-school-activities)
+ - [Uniq in order](https://github.com/Jmnahan/avion-school-activities)
+ - [Disemvowel](https://github.com/Jmnahan/avion-school-activities)
+ - [Century](https://github.com/Jmnahan/avion-school-activities)
+ - [Bart and Lisa](https://github.com/Jmnahan/avion-school-activities)
+ - [Vowel code](https://github.com/Jmnahan/avion-school-activities)
+ - [Unique number](https://github.com/Jmnahan/avion-school-activities)
+ - [Middle element](https://github.com/Jmnahan/avion-school-activities)
+ - [Sorted](https://github.com/Jmnahan/avion-school-activities)
+ - [Count letters](https://github.com/Jmnahan/avion-school-activities)
