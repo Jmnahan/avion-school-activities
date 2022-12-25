@@ -29,10 +29,12 @@ This repo is a representation of all the activities I completed throughout the d
 ![Screenshot](./images/bank_app.png)
 
 #### [7. Chessboard App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/chessboard-app/)
+- [Code repo](https://github.com/Jmnahan/chessboard-app)
 
 ![Screenshot](./images/chessboard-app.png)
 
 #### [8. Lax App/Slack App (Collaboration project) ]
+- [Code repo](https://github.com/Jmnahan/lax-app)
 
 #### [9. Flexbox Activity  ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
 
