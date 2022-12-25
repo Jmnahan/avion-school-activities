@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./icons/all.min.css">
+  <title>Tic Tac Toe</title>
+</head>
+<body>
+  <main class="container">
+    <header class="wavey">
+      <span style="--i:1">T</span>
+      <span style="--i:2">I</span>
+      <span style="--i:3">C</span>
+      <span style="--i:4" class="title-span">T</span>
+      <span style="--i:5">A</span>
+      <span style="--i:6">C</span>
+      <span style="--i:7" class="title-span">T</span>
+      <span style="--i:8">O</span>
+      <span style="--i:9">E</span>
+    </header>
+    <form id="setup" style="visibility: visible;">
+      <p>Which should go first?</p>
+        <input class="radio-input" type="radio" id="x" name="player" value="X">
+        <label class="radio-label" for="x">X</label><br>
+        <input class="radio-input" type="radio" id="o" name="player" value="O">
+        <label class="radio-label" for="o">O</label><br>
+        <button class="start-btn" type="button" id="start-game"><i class="fa-solid fa-play"></i></button>
+    </form>
+    <section id="board" style="visibility: hidden;">
+        <div class="box cell1"></div>
+        <div class="box"></div>
+        <div class="box cell3"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box cell7"></div>
+        <div class="box"></div>
+        <div class="box cell9"></div>
+    </section>
+    <section class="endgame-btns" id="endgame-btns" style="visibility: hidden;">
+        <h4 class="result-message" id="result-message"></h4>
+        <button class="endgame" type="button" id="previous-btn"><i class="fa-solid fa-backward"></i></button>
+        <button class="endgame" type="button" id="restart-btn"><i class="fa-solid fa-rotate-left"></i></button>
+        <button class="endgame" type="button" id="next-btn"><i class="fa-solid fa-forward"></i></button>
+    </section>
+  </main>
+  <script type="text/javascript" src="main.js"></script>
+</body>
+</html>

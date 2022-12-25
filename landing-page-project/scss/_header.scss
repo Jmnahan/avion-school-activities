@@ -1,0 +1,101 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  padding: 0.75rem;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  display: flex;
+  justify-content: space-between;
+  background: url(../images/assets/bg/hexagons.png);
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  ul {
+    display: flex;
+    li {
+      letter-spacing: 1px;
+      list-style: none;
+      cursor: pointer;
+      padding: 0.875rem;
+      font-weight: 300;
+    }
+    a {
+      text-decoration: none;
+      color: #000;
+    }
+    a:hover {
+      font-weight: 700;
+      color: #53c2b1;
+    }
+  }
+}
+
+a:visited {
+  color: #000;
+}
+
+.hamburger {
+  display: none;
+  cursor: pointer;
+  .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #222222;
+  }
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
+
+  .hamburger.active .bar:nth-child(2) {
+    opacity: 0;
+  }
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+  .hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .nav-menu {
+    position: fixed;
+    left: -100%;
+    top: 5.625rem;
+    gap: 0;
+    flex-direction: column;
+    background-color: #222222;
+    width: 100%;
+    text-align: center;
+    transition: 0.3s;
+    color: #fff;
+  }
+
+  .nav-bar {
+    ul {
+      a {
+        color: white;
+      }
+    }
+  }
+
+  a:visited {
+    color: #fff;
+  }
+
+  .nav-link {
+    margin: 1rem 0;
+  }
+
+  .nav-menu.active {
+    left: 0;
+  }
+}

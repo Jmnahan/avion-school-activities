@@ -1,0 +1,28 @@
+.scroller-container {
+  padding: 2.5rem 0 2.5rem 0;
+  background-color: #404040;
+  display: grid;
+  justify-content: center;
+}
+
+.media-scroller {
+  display: grid;
+  gap: 6px;
+  max-width: 95vw;
+  grid-template-rows: min-content;
+  grid-auto-flow: column;
+  grid-auto-columns: 19%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.scroller-elements {
+  width: 21.875rem;
+  padding: 1rem 1rem 2rem;
+}
+
+@media (max-width: 1200px) {
+  .scroller-elements {
+    width: 15.625rem;
+  }
+}

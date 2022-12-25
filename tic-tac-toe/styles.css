@@ -1,0 +1,145 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: calc(1.5vw);
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(90deg, rgb(6, 7, 7) 0%, rgb(39, 38, 35) 50%, rgb(36, 40, 41) 100%);
+}
+
+header {
+  margin-top: 6vh;
+}
+
+form {
+  position: absolute;
+  margin-top: 4em;
+  width: calc(100vw);
+}
+
+section {
+  margin-top: 1.5rem;
+}
+
+p, label {
+  color: rgb(105, 167, 218);
+  padding: 0.5rem 0 0.5rem;
+}
+
+#confirm, button, .box:hover {
+  cursor: pointer;
+}
+
+.start-btn {
+  color: rgb(105, 167, 218);
+  margin-top: 1.5rem;
+  background-color: transparent;
+  border: none;
+}
+
+.fa-solid {
+  font-size: 1.75rem;
+  color: rgb(105, 167, 218);
+}
+
+#board {
+  display: grid;
+  max-width: 100vw;
+  max-height: 50vh;
+  justify-content: center;
+  align-content: center;
+  grid-template-columns: repeat(3, auto);  
+}
+
+.box {
+  display: grid;
+  width: max(10vh, 10vw);
+  height: max(10vh, 10vw);
+  background-color: #3e4240;
+  background: rgb(185, 126, 126)
+  -webkit-radial-gradient(center, #777e76, #3e4240);
+  border: 1px solid #fff;
+}
+
+.o {
+  background-image: url(./images/O.png);
+}
+
+.x {
+  background-image: url(./images/X.png);
+}
+
+.o, .x {
+  background-color: rgb(44, 42, 40);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 70%;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.cell1 {
+  border-top-left-radius: 2.5rem;
+}
+
+.cell3 {
+  border-top-right-radius: 2.5rem;
+}
+
+.cell7 {
+  border-bottom-left-radius: 2.5rem;
+}
+
+.cell9 {
+  border-bottom-right-radius: 2.5rem;
+}
+
+.result-message {
+  padding: 0.2rem 0;
+  font-size: 2rem;
+  color: rgb(224, 116, 116);
+}
+
+.endgame {
+  margin: 0.5rem 1rem;
+  background-color: transparent;
+  border: none;
+}
+
+.wavey, span {
+  position: relative;
+  background: -webkit-linear-gradient(#bb2f2f, #4bb6d6);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-span {
+  margin-left: 1.625rem;
+}
+
+.wavey span {
+  display: inline-block;
+  font-size: 40px;
+  color: #fff;
+  text-transform: uppercase;
+  animation: wavey 1s 3;
+  animation-delay: calc(.1s * var(--i));
+  font-size: calc(3.5rem)
+}
+
+@keyframes wavey {
+
+  0%, 40%, 100% {
+    transform: translateY(0)
+  }
+  20% {
+    transform: translateY(-20px)
+  }
+}

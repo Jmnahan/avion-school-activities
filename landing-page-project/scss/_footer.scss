@@ -1,0 +1,28 @@
+.footer {
+  margin-top: auto;
+  background-color: #404040;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: 0 10vw 0 10vw;
+  ul {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    li {
+      word-spacing: 2px;
+      font-size: 0.75rem;
+      list-style: none;
+      padding: 0.375rem;
+      cursor: pointer;
+      .fa-brands:hover {
+        color: #53c2b1;
+        transition: 0.3s;
+      }
+    }
+  }
+}

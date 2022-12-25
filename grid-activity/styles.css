@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.container {
+  display: grid; 
+  min-height: 40vh; 
+  min-width: 60vw;
+  gap: 8px 8px; 
+  grid-auto-columns: 1fr; 
+  grid-template-columns: repeat(15, 1fr); 
+  grid-template-rows: repeat(5, 1fr); 
+  grid-template-areas: 
+    "curly one two three four five six seven eight nine zeroo minus plus backspace backspace"
+    "tab tab q w e r t letter-y u i o p open-curly close-curly bar"
+    "caps-lock caps-lock a s d f g h j k l colon qoutes enter enter"
+    "shiftone shiftone shiftone z letter-x c v b n m less-than greater-than question shifttwo shifttwo"
+    "ctrlone altone space-bar space-bar space-bar space-bar space-bar space-bar space-bar space-bar alttwo ctrltwo unicorn . ."; 
+}
+.curly { grid-area: curly; }
+.one { grid-area: one; }
+.two { grid-area: two; }
+.three { grid-area: three; }
+.four { grid-area: four; }
+.five { grid-area: five; }
+.six { grid-area: six; }
+.seven { grid-area: seven; }
+.eight { grid-area: eight; }
+.nine { grid-area: nine; }
+.zero { grid-area: zeroo; }
+.minus { grid-area: minus; }
+.plus { grid-area: plus; }
+.backspace { grid-area: backspace; }
+.tab { grid-area: tab; }
+.q { grid-area: q; }
+.w { grid-area: w; }
+.e { grid-area: e; }
+.r { grid-area: r; }
+.t { grid-area: t; }
+.y { grid-area: letter-y; }
+.u { grid-area: u; }
+.i { grid-area: i; }
+.o { grid-area: o; }
+.p { grid-area: p; }
+.open-curly { grid-area: open-curly; }
+.close-curly { grid-area: close-curly; }
+.bar { grid-area: bar; }
+.a { grid-area: a; }
+.caps-lock { grid-area: caps-lock; }
+.s { grid-area: s; }
+.d { grid-area: d; }
+.f { grid-area: f; }
+.g { grid-area: g; }
+.h { grid-area: h; }
+.j { grid-area: j; }
+.k { grid-area: k; }
+.l { grid-area: l; }
+.colon { grid-area: colon; }
+.qoutes { grid-area: qoutes; }
+.enter { grid-area: enter; }
+.shiftone { grid-area: shiftone; }
+.z { grid-area: z; }
+.x { grid-area: letter-x; }
+.c { grid-area: c; }
+.v { grid-area: v; }
+.b { grid-area: b; }
+.n { grid-area: n; }
+.m { grid-area: m; }
+.less-than { grid-area: less-than; }
+.greater-than { grid-area: greater-than; }
+.question { grid-area: question; }
+.shifttwo { grid-area: shifttwo; }
+.ctrlone { grid-area: ctrlone; }
+.altone { grid-area: altone; }
+.space-bar { grid-area: space-bar; }
+.alttwo { grid-area: alttwo; }
+.ctrltwo { grid-area: ctrltwo; }
+.unicorn { grid-area: unicorn; }
+
+ul, li {
+  list-style: none;
+}
+
+ul {
+  background-color: #5640ad;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+li {
+  background-color: #56c2e0;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}

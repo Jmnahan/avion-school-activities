@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/batch22-fe-activities/chessboard-app/static/css/main.600f75d7.css",
+    "main.js": "/batch22-fe-activities/chessboard-app/static/js/main.88899d16.js",
+    "static/js/787.fff2b808.chunk.js": "/batch22-fe-activities/chessboard-app/static/js/787.fff2b808.chunk.js",
+    "index.html": "/batch22-fe-activities/chessboard-app/index.html",
+    "main.600f75d7.css.map": "/batch22-fe-activities/chessboard-app/static/css/main.600f75d7.css.map",
+    "main.88899d16.js.map": "/batch22-fe-activities/chessboard-app/static/js/main.88899d16.js.map",
+    "787.fff2b808.chunk.js.map": "/batch22-fe-activities/chessboard-app/static/js/787.fff2b808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.600f75d7.css",
+    "static/js/main.88899d16.js"
+  ]
+}

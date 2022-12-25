@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Raleway:wght@700&display=swap" rel="stylesheet">
+  <title>Eat well. Live longer.</title>
+</head>
+<body>
+  <main id="main" class="main">
+    <img src="images/form-img.jpg" alt="lady-with-grocery-basket" class="form-img"> 
+    <form id="survey-form" method="GET" action="#">
+      <h1 id="title">Start eating healthy today!</h1>
+      <hr>
+      <p id="description">We challenge the limits of traditional healthcare with innovative self-care solutions.</p>
+      <div class="form-group">
+        <label for="name" class="name-label">Full name
+          <input type="text" id="name" name="fullname" placeholder="Your name"
+          pattern="^(\w\w+)\s(\w+)$">
+        </label>
+        <label for="email" class="email-label">Email
+          <input type="email" id="email" name="email" placeholder="juan@gmail.com" 
+          pattern="[a-zA-Z0-9.-_]{1,}@[a-zA-Z.-]{2,}[.]{1}[a-zA-Z]{2,}">
+        </label> 
+      </div>
+      <div class="form-group contact">
+        <label for="number" class="number-label">Contact
+          <input type="tel" id="number" name="number" placeholder="Contact number" 
+          pattern="[0]{1}[9]{1}[0-9]{9}">
+        </label>
+        <label for="dropdown" class="select-label">Location
+        <select id="dropdown" name="location">
+          <option value="" disabled selected hidden>Please choose</option>
+          <option value="manila">Manila</option>
+          <option value="quezon">Quezon City</option>
+          <option value="caloocan">Caloocan</option>
+          <option value="malabon">Malabon</option>
+          <option value="makati">Makati</option>
+          <option value="muntinlupa">Muntinlupa</option>
+          <option value="navotas">Navotas</option>
+          <option value="pasay">Pasay</option>
+          <option value="pasig">Pasig</option>
+          <option value="marikina">Marikina</option>
+          <option value="pasay">Pasay</option>
+          <option value="mandaluyong">Mandaluyong</option>
+        </select>
+        </label>
+      </div>
+      <div class="form-group">     
+        <h4 class="diet-title">Diet Plan</h4>
+          <input type="checkbox" id="mediterranean" name="diet-plan" value="mediterranean">
+        <label for="mediterranean">Mediterranean</label><br>
+          <input type="checkbox" id="vegan" name="diet-plan" value="Vegan">
+        <label for="vegan">Vegan</label><br>
+          <input type="checkbox" id="lowcarb" name="diet-plan" value="Low-carb">
+        <label for="lowcarb">Low carb</label><br>   
+          <input type="checkbox" id="keto" name="diet-plan" value="Keto">
+        <label for="keto">Keto</label><br> 
+          <input type="checkbox" id="pescatarian" name="diet-plan" value="Pescatarian">
+        <label for="pescatarian">Pescatarian</label><br>  
+      </div>
+      <div class="form-group">
+        <h4 class="package-title">Package</h4>
+          <input type="radio" id="one-week" name="package" value="One-week">
+        <label for="one-week">One week</label><br>
+          <input type="radio" id="two-week" name="package" value="Two-weeks">
+        <label for="two-week">Two weeks</label><br>
+          <input type="radio" id="one-month" name="package" value="One-month">
+        <label for="one-month">One month</label>
+      </div>
+      <p class="notes"><label for="notes">Special Instructions:</label></p>
+      <textarea name="notes" id="notes" rows="3"></textarea>
+      <input id="submit-btn" type="submit" value="Submit"/>
+    </form>
+  </main>
+</body>
+</html>

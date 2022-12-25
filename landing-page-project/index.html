@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./scss/main.css">
+  <link rel="stylesheet" href="./scss/icons/all.min.css">
+  <title>Supergiant Games - Hades</title>
+</head>
+<body>
+  <main id="container" class="container">
+    <header id="header" class="header">
+     <a href="./index.html"><img id="header-img" class="header-img" src="./images/assets/logo_sg.png"></a>
+      <nav id="nav-bar" class="nav-bar">
+        <ul class="nav-menu">
+          <li id="nav-link"><a href="#container">HADES</a></li>
+          <li id="nav-link"><a href="#video">VIDEO</a></li>
+          <li id="nav-link"><a href="#screenshot">SCREENSHOT</a></li>
+          <li id="nav-link"><a href="#newsletter">JOIN</a></li>
+        </ul>
+        <div class="hamburger">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+      </nav>
+    </header>
+    <section class="landing-container">
+      <div class="img-container">
+        <img class="zagreus-img" src="./images/assets/hades-zagreus.png">
+        <img class="hades-img" src="./images/assets/hades.png"> 
+      </div> 
+      <div class="landing-content">
+        <h1>Hades</h1>
+        <span>is now available in Steam!</span>
+        <p>A brutal puzzle and survival game, set in a procedurally-generated purgatory inspired by Greek myth. Battle and conquer your way to a saga worthy of Hades' patronage!</p>
+        <button class="steam-btn"><i class="fa-brands fa-steam-symbol"></i><a>Buy it on Steam</a></button>
+      </div>    
+    </section>
+    <section class="media-container">
+      <div class="video-container">
+        <iframe id="video" class="video" src="https://www.youtube.com/embed/YZZFlcE0fWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <blockquote class="qoutes first-qoute">"It's freaking amazing!"</blockquote>
+      </div>
+      <div class="images img-one">
+        <img class="img-01" src="./images/assets/hypnos.jpg">
+        <blockquote class="qoutes second-qoute">"Great paced game play. Lots of replay ability. It's tough though... you'll die a lot lol"</blockquote>
+      </div>
+      <div class="images img-two">
+        <img class="img-02" src="./images/assets/giant_doggo.jpg">
+        <blockquote class="qoutes third-qoute">
+         "One more run.
+          One more run.
+          Okay, just one more.
+          Well, maybe one more on top of that...
+          Just... One... More... Run..."
+          </blockquote>
+      </div>
+      <div class="images img-one">
+        <img class="img-01" src="./images/assets/sunrise.jpg">
+        <blockquote class="qoutes second-qoute">
+          "There is no escape. You press play, and it's 4am"
+          </blockquote>
+      </div>
+    </section>
+    <section id="screenshot" class="scroller-container">
+      <div class="media-scroller">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-1.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-2.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-3.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-4.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-5.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-6.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-7.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-8.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-9.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-10.jpg">
+        <img class="scroller-elements" src="./images/assets/scroller/scroller-11.jpg">
+      </div>  
+    </section>
+    <section id="newsletter" class="newsletter-container">
+      <div class="newsletter-form">
+      <h3>Join the Supergiant Games Mailing List</h3>
+      <p>-Be the first to hear about any new games we might be working on!</p>
+      <p>-Get deals and special offers on our full line of merchandise!</p>
+      <p>-Stay on top of all the latest developments from our team!</p>
+      <form id="form" class="form" action="./newsletter.html" method="GET" target="_blank">
+        <label for="full-name">Full name
+          <input class="input-name" type="text" id="full-name" name="full-name" pattern="^(\w\w+)\s(\w+)$" placeholder="Juan Cruz">
+        </label>
+        <label for="email">Email
+          <input class="input-email" type="email" id="email" name="email" placeholder="juancruz@gmail.com">
+          </label>
+        <input type="submit" id="submit" class="submit-btn"></input>
+      </form>
+      </div>
+    </section>
+    <footer class="footer">
+      <a href="./index.html"><img class="footer-img" src="./images/assets/logo_sg_final.png"></a>
+      <ul>
+        <li class="footer-link"><a>Terms of Use</a></li>
+        <li class="footer-link"><a>Privacy Policy</a></li>
+        <li class="footer-link"><a><i class="fa-brands fa-twitter"></i></a></li>
+        <li class="footer-link"><a><i class="fa-brands fa-facebook"></i></a></li>
+        <li class="footer-link"><a><i class="fa-brands fa-youtube"></i></a></li>
+        <li class="footer-link"><a><i class="fa-brands fa-instagram"></i></a></li>
+        <li class="footer-link"><a><i class="fa-brands fa-discord"></i></a></li>
+      </ul>
+    </footer>
+  </main>
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

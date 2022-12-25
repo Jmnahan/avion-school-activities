@@ -1,0 +1,273 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  background: url(https://source.unsplash.com/random/1920x1080) no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+body::after {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0 , 0, 0.3);
+}
+
+/* container */
+.container {
+  position: relative;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Nav-bar */
+.nav-container {
+  min-width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar li {
+  margin-top: 0.5rem;
+  list-style: none;
+}
+
+.todo-btn {
+  margin-top: 1rem;
+  background-color: transparent;
+  border: none;
+}
+
+.fa-clipboard-list {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.weather {
+  margin-right: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather span {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+/* time, greetings, inputs */
+.time-container {
+  display: flex;
+}
+
+.time {
+  font-size: 10rem;
+  margin-top: 10vh;
+}
+
+.format-btn {
+  border: 1px solid transparent;
+  background-color: transparent;
+  margin-top: auto;
+  cursor: pointer;
+  border-radius: 50%;
+  font-size: 2rem;
+  visibility: hidden;
+}
+
+.form {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.greeting-container {
+  display: flex;
+}
+
+.greeting {
+  font-size: 5rem;
+}
+
+.focus {
+  font-size: 2.2rem;
+  margin-top: 5rem;
+} 
+
+.footer {
+  position: fixed;
+  bottom: 2rem;
+  color: white;
+}
+
+.quotes {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.input-name, .input-focus, .todo-input{
+  font-weight: 700;
+  background-color: transparent;
+  border: none;
+  outline: 0;
+  border-bottom: 1px solid #fff;
+  text-align: center;
+}
+
+.input-name {
+  margin-left: 1rem;
+  font-size: 5rem;
+  width: 18rem;
+}
+
+.input-focus {
+  margin-top: 2.5rem;
+  font-size: 1.5rem;
+  min-width: 30rem;
+}
+
+/* TO DO */
+.todo {
+  position: absolute;
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+  background-color: #252525;
+  padding: 1rem;
+  min-height: 18rem;
+  max-width: 20rem;
+  border-radius: 0.375rem;
+  top: 4rem;
+  left: 3.5rem;
+  display: none;
+}
+
+.todo-form {
+  display: flex;
+}
+
+.todo-input {
+  text-align: left;
+  font-size: 1rem;
+  max-width: 10rem;
+  margin-top: 0.75rem;
+  font-weight: 400;
+}
+
+.todo-submit {
+  font-weight: 700;
+  margin-top: 1rem;
+  width: 9rem;
+  color: #fff;
+  border: 1px solid white;
+  border-radius: 0.2rem;
+  background-color: transparent;
+  backdrop-filter: blur(2px);
+}
+
+.todo-submit:hover {
+  color: #B000B5;
+  background-color: #fff;
+}
+
+.todo-list {
+  margin-top: 1rem;
+  list-style: none;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.todo-toggle {
+  display: block;
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.todo-div {
+  display: flex;
+}
+
+.todo-item {
+  max-width: 15rem;
+  color: #B000B5;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  word-wrap: break-word;
+}
+
+.edit-btn, .delete-btn{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.todo-editing {
+  outline: none;
+  min-width: 15rem;
+  margin-right: 0.5rem;
+  background-color: #fff;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+}
+
+.edit-btn {
+  margin-right: 1rem;
+  margin-left: auto;
+}
+
+.error-msg {
+  font-weight: 700;
+  padding: 0.25rem 0;
+  display: none;
+  color: rgb(190, 60, 60);
+}
+
+.completed-todo {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+@media screen and (max-width: 991px) {
+  .time {
+    font-size: 8rem;
+  }
+
+  .greeting-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .todo {
+    left: 1.25rem;
+    right: 1.25rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .time {
+    font-size: 5rem;
+  }
+}

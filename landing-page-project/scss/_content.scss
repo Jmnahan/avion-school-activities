@@ -1,0 +1,285 @@
+.landing-container {
+  padding: 0 10vw 0 10vw;
+  display: flex;
+  flex-direction: row-reverse;
+  background: url(../images/assets/Elysium.png) no-repeat;
+  background-size: cover;
+  max-height: 35.5rem;
+  .landing-content {
+    background: linear-gradient(to left, rgba(0, 0, 0, 0) 0, rgba(15, 11, 11, 0.7) 20%, rgb(7, 6, 6) 70%);
+    max-width: 40%;
+    color: white;
+    padding: 3rem;
+    h1 {
+      letter-spacing: 1px;
+      font-size: 4.625rem;
+    }
+    span {
+      font-size: 1.75rem;
+      word-spacing: 5px;
+    }
+    p {
+      line-height: 1.75rem;
+      letter-spacing: 1px;
+      word-spacing: 4px;
+      padding-top: 0.75rem;
+      padding-bottom: 1.5rem;
+      font-size: 1rem;
+    }
+    .steam-btn {
+      font-size: 1rem;
+      background-color: #53c2b1;
+      outline: none;
+      border-radius: 5px;
+      padding: 1rem;
+      opacity: 0.7;
+      transition: 0.3s;
+      cursor: pointer;
+      .fa-steam-symbol {
+        padding-right: 0.25rem;
+        font-size: 1rem;
+      }
+    }
+  }
+
+  .steam-btn:hover {
+    opacity: 1;
+  }
+  .img-container {
+    width: 60%;
+    position: relative;
+    .zagreus-img {
+      z-index: 1;
+      width: 25rem;
+    }
+    .hades-img {
+      position: absolute;
+      width: 25rem;
+      bottom: 0;
+      left: 15.625rem;
+    }
+  }
+}
+
+.media-container {
+  padding: 0 20vw 0 20vw;
+  background: url(../images/assets/bg/Visiwig-Intersecting-Circles.svg);
+  display: flex;
+  flex-flow: column wrap;
+  color: white;
+  .video-container {
+    display: flex;
+    padding-top: 5rem;
+    margin-bottom: 5rem;
+    .video {
+      width: 30rem;
+      height: 16.875rem;
+    }
+  }
+  .images { 
+    display: flex;
+    .img-01, .img-02 {
+      width: 30rem;
+      height: 16.875rem;
+      margin-bottom: 5rem;
+    }
+  }
+}
+.img-one {
+  flex-direction: row-reverse;
+}
+
+.qoutes {
+  word-spacing: 4px;
+  font-style: italic;
+  font-size: 1.75rem;
+  display:flex;  
+  align-items: center;
+}
+
+.first-qoute {
+  margin-left: auto;
+  padding-left: 5rem;
+}
+
+.second-qoute {
+  padding-right: 5rem;
+  padding-bottom: 5rem;
+}
+
+.third-qoute {
+  padding-left: 5rem;
+  padding-bottom: 5rem;
+}
+
+@media (max-width: 1200px) {
+  .landing-container {
+    max-height: 28.813rem;
+    .landing-content {
+      padding: 2.25rem;
+      h1 {
+        font-size: 3.5rem;
+      }
+      span {
+        font-size: 1.5rem;
+      }
+      p {
+        font-size: 0.875rem;
+      }
+      .steam-btn {
+        font-size: 0.875rem;
+      }
+    }
+    .img-container {
+      .zagreus-img {
+        width: 20.313rem;
+      }
+      .hades-img {
+        width: 20.313rem;
+        left: 13.75rem;
+      }
+    }
+  }
+
+  .media-container {
+    padding: 0 10vw 0 10vw;
+  }
+  .qoutes {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .landing-container {
+    padding: 0;
+    max-height: 26.563rem;
+    .landing-content {
+      h1 {
+        font-size: 2.25rem;
+      }
+      span {
+        font-size: 1rem;
+      }
+      p {
+        font-size: 0.75rem;
+      }
+    }
+    .img-container {
+      .zagreus-img {
+        width: 18.75rem;
+      }
+      .hades-img {
+        width: 18.75rem;
+        left: 13.125rem;
+      }
+    }
+  }
+
+  .media-container {
+    .video-container {
+      .video {
+        width: 26.875rem;
+        height: 15rem;
+      }
+    }
+    .images {
+      .img-01, .img-02 {
+        width: 26.875rem;
+        height: 15rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .landing-container {
+    padding: 0;
+    max-height: 23.063rem;
+    .img-container {
+      .zagreus-img {
+        width: 16.25rem;
+      }
+      .hades-img {
+        width: 16.25rem;
+        left: 10.625rem;
+      }
+    }
+  }
+
+  .media-container {
+    .video-container {
+      .video {
+        width: 21.875rem;
+        height: 12.188rem;
+      }
+    }
+    .images {
+      .img-01, .img-02 {
+        width: 21.875rem;
+        height: 12.188rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .landing-container {
+    padding: 0;
+    max-height: 21.313rem;
+    .landing-content {
+      h1 {
+        font-size: 1.75rem;
+      }
+      span {
+        font-size: 0.875rem;
+      }
+      p {
+        line-height: 1.4rem;
+        font-size: 0.75rem;
+      }
+    }
+    .img-container {
+      .zagreus-img {
+        width: 15rem;
+      }
+      .hades-img {
+        width: 15rem;
+        left: 9.375rem;
+      }
+    }
+  }
+  
+  .media-container {
+    .video-container {
+      flex-direction: column;
+      .video {
+        align-self: center;
+        width: 21.875rem;
+        height: 12.188rem;
+      }
+    }
+    .images {
+      flex-direction: column;
+      align-items: center;
+      .img-01, .img-02 {
+        width: 21.875rem;
+        height: 12.188rem;
+      }
+    }
+  }
+  .qoutes {
+    text-align: center;
+    font-size: 1.125rem; 
+    margin: auto;
+  } 
+  .first-qoute {
+    padding-left: 0;
+    padding-top: 5rem;
+  }
+  .second-qoute {
+    padding-right: 0;
+  }
+  .third-qoute {
+    padding-left: 0;
+  }
+}

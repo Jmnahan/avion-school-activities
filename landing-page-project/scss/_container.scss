@@ -1,0 +1,25 @@
+.container {  
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 0.01fr 0.1fr 0.1fr 0.01fr 0.2fr 0.01fr;
+  grid-auto-flow: column;
+  grid-template-areas:
+    ". header ."
+    ". landing-container ."
+    ". media-container ."
+    ". scroller-container ."
+    ". newsletter-container ."
+    ". footer .";
+}
+.header { grid-area: header; }
+.landing-container { grid-area: landing-container; }
+.media-container { grid-area: media-container; }
+.newsletter-container { grid-area: newsletter-container; }
+.scroller-container { grid-area: scroller-container; }
+.footer { grid-area: footer; }
+
+.sub-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
