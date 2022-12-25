@@ -82,36 +82,36 @@ This repo is a representation of all the activities I completed throughout the d
 
 ### Ruby exercises
 
-1. Control flow 
-    - [check-arr](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/check_arr.rb)
-    - [divisible](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/divisible.rb)
-    - [hundred](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/hundred.rb)
-    - [options](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/options.rb)
-
-2. Data types 
-    - [age](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/age.rb)
-    - [contact](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/contact.rb)
+1. Data types 
     - [each](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/each.rb)
     - [hash](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/hash.rb)
+    - [contact](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/contact.rb)
+    - [age](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/age.rb)  
 
+2. Control flow 
+    - [check array](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/check_arr.rb)
+    - [range](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/hundred.rb)
+    - [while loop](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/options.rb)
+    - [divisible by 2](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/control_flow_activity/divisible.rb)
+ 
 3. OOP 
-    - [abstaction](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/abstraction.rb)
+    - [inheritance](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/confection.rb)
     - [encapsulation](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/encapsulation.rb)
+    - [abstaction](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/abstraction.rb)
     - [polymorph](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/polymorph.rb)
     - [missing code](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/missing_code.rb)
-    - [make-obj](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/make_obj.rb)
-    - [confection](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/confection.rb)
+    - [make obj](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/oop_activity/make_obj.rb)
 
 4. Postgresql
-    - [sql students](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/postgresql_activity/1_sql-students.txt)
+    - [sql students ](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/postgresql_activity/1_sql-students.txt)
     - [sql classrooms](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/postgresql_activity/2_sql-classrooms.txt)
     
 5. SOLID Principle
     - [single responsibility](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/1_single_res.rb)
-    - [open close](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/2_open_close.rb)
-    - [liskov](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/3_liskov_sub.rb)
-    - [int seg](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/4_int_seg.rb)
-    - [dep inv](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/5_dep_inv.rb)
+    - [open/closed](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/2_open_close.rb)
+    - [liskov substitution](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/3_liskov_sub.rb)
+    - [interface segregation](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/4_int_seg.rb)
+    - [dependency inversion](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/5_dep_inv.rb)
 
 ### Coding exercises
  - [Square of squares](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/a_sqr_of_sqr.rb)
