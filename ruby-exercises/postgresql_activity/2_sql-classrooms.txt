@@ -1,11 +1,11 @@
+1. Create new table
 CREATE TABLE classrooms(
 id SERIAL PRIMARY KEY,
 student_id INTEGER,
 section TEXT
 );
 
-------------------------------------------------------------------
-
+2. Insert 10 records
 INSERT INTO
 classrooms(student_id, section)
 VALUES
@@ -20,7 +20,7 @@ VALUES
 (9, 'B'),
 (10, 'C');
 
-------------------------------------------------------------------
+3. Combine two tables, using inner join, left join, right join, and full join.
 
 Inner Join
 SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM students s INNER JOIN classrooms c ON c.student_id = s.id;
@@ -36,4 +36,3 @@ students s RIGHT JOIN classrooms c on c.student_id = s.id;
 Full Join
 SELECT s.first_name, s.middle_name, s.last_name, s.age, s.location, c.section FROM
 students s FULL JOIN classrooms c on c.student_id = s.id;
-
