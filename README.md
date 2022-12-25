@@ -32,9 +32,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 ![Screenshot](./images/chessboard-app.png)
 
-#### [8. Lax App/Slack App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
-
-![Screenshot](./images/flexbox-activity.png)
+#### [8. Lax App/Slack App (Collaboration project) ]
 
 #### [9. Flexbox Activity  ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
 
