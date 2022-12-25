@@ -1,4 +1,8 @@
-Front-end activities 
+# Avion School activities
+
+This repo is a representation of all the activities I completed throughout the duration of the Avion School Web Development Bootcamp
+
+## Front-end activities
 
 ### [1. Tribute Page Project ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
@@ -36,4 +40,4 @@ Front-end activities
 
 ![Screenshot](./images/grid-activity.png)
 
-Back-end activities 
+## Back-end activities
