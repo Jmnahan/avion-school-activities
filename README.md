@@ -1,3 +1,4 @@
+Front-end activities 
 
 ### [1. Tribute Page Project ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
 
@@ -34,3 +35,5 @@
 ### [9. Grid Activity ](https://jmnahan.github.io/batch22-fe-activities/grid-activity/)
 
 ![Screenshot](./images/grid-activity.png)
+
+Back-end activities 
