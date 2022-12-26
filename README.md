@@ -24,12 +24,12 @@ This repo is a representation of all the activities I completed throughout the d
 
 ![Screenshot](./images/tic-tac-toe-app.png)
 
-#### [6. Bank App ](https://jmnahan.github.io/batch22-fe-activities/bank-app/) [Code repo](https://github.com/Jmnahan/bank-app)
+#### [6. Bank App ](https://jmnahan.github.io/batch22-fe-activities/bank-app/) [[Code repo]](https://github.com/Jmnahan/bank-app)
 
 
 ![Screenshot](./images/bank_app.png)
 
-#### [7. Chessboard App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/chessboard-app/) [Code repo](https://github.com/Jmnahan/chessboard-app)
+#### [7. Chessboard App (Collaboration project) ](https://jmnahan.github.io/batch22-fe-activities/chessboard-app/) [[Code repo]](https://github.com/Jmnahan/chessboard-app)
 
 ![Screenshot](./images/chessboard-app.png)
 
