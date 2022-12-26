@@ -1,0 +1,14 @@
+.div {
+  background-color: rgb(37, 189, 194);
+  height: 100px;
+  width: 150px;
+  text-align: center;
+}
+
+#input {
+  margin-top: 1rem;
+}
+
+.submit-para {
+  font-size: 24px;
+}
