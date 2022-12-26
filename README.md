@@ -5,22 +5,27 @@ This repo is a representation of all the activities I completed throughout the d
 ## Front-end activities
 
 #### [1. Tribute Page Project ](https://jmnahan.github.io/batch22-fe-activities/tribute-project/)
+- [Code repo](https://github.com/Jmnahan/avion-school-activities/tree/master/tribute-project)
 
 ![Screenshot](./images/alan_turing.png)
 
 #### [2. Forms Project ](https://jmnahan.github.io/batch22-fe-activities/forms-project/)
+- [Code repo](https://github.com/Jmnahan/avion-school-activities/tree/master/forms-project)
 
 ![Screenshot](./images/forms-project.png)
 
 #### [3. Product Landing Page ](https://jmnahan.github.io/batch22-fe-activities/landing-page-project/)
+- [Code repo](https://github.com/Jmnahan/avion-school-activities/tree/master/landing-page-project)
 
 ![Screenshot](./images/product-landing-page.png)
 
 #### [4. Momentum App ](https://jmnahan.github.io/batch22-fe-activities/momentum-app/)
+- [Code repo](https://github.com/Jmnahan/avion-school-activities/tree/master/momentum-app)
 
 ![Screenshot](./images/momentum-app.png)
 
 #### [5. Tic-Tac-Toe App ](https://jmnahan.github.io/batch22-fe-activities/tic-tac-toe/)
+- [Code repo](https://github.com/Jmnahan/avion-school-activities/tree/master/tic-tac-toe)
 
 ![Screenshot](./images/tic-tac-toe-app.png)
 
