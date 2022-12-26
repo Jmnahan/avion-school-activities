@@ -36,9 +36,6 @@ This repo is a representation of all the activities I completed throughout the d
 
 #### [8. Lax App/Slack App (Collaboration project) ]
 - [Code repo](https://github.com/Jmnahan/lax-app)
-1. Sample User:
-    - email: testinguser11@das.com
-    - password: 123456
 
 #### [9. Flexbox Activity  ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
 
