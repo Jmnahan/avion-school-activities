@@ -25,16 +25,7 @@ This repo is a representation of all the activities I completed throughout the d
 ![Screenshot](./images/tic-tac-toe-app.png)
 
 #### [6. Bank App ](https://jmnahan.github.io/batch22-fe-activities/bank-app/)
-##### Sample Accounts: 
-1. First Account
-    - email: juan@gmail.com
-    - password: 12345678
-    - account number: 215488233578
-
-2. Second Account
-    - email: maria@gmail.com
-    - password: 12345678
-    - account number: 817826505047
+- [Code repo](https://github.com/Jmnahan/bank-app)
 
 ![Screenshot](./images/bank_app.png)
 
