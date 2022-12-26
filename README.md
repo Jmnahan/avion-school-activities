@@ -64,11 +64,11 @@ This repo is a representation of all the activities I completed throughout the d
 
 3. Intro to dom
     - [listen-to-me](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/c-intro-to-dom/listen-to-me/app.js)
-    - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/c-intro-to-dom/name-that-superpower%20copy/app.js)
+    - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/c-intro-to-dom/name-that-superpower/app.js)
 
 4. ES6 
     - [whats-my-address](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/whats-my-address/app.js)
-    - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities/tree/master/javascript-exercises/d-es6/catch-the-spy)
+    - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/catch-the-spy/app.js)
     - [find-manny](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/find-manny/app.js)
     - [sari-sari-store](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/sari-sari-store/app.js)
     - [import-export](https://github.com/Jmnahan/avion-school-activities/tree/master/javascript-exercises/d-es6/import-export)
