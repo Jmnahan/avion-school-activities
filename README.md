@@ -60,22 +60,29 @@ This repo is a representation of all the activities I completed throughout the d
 ### JavaScript exercises
 
 1. Intro to loops
-    - [be-the-bouncer](https://github.com/Jmnahan/avion-school-activities)
-    - [blue-team-vs-red-team](https://github.com/Jmnahan/avion-school-activities)
-    - [color-my-chessboard](https://github.com/Jmnahan/avion-school-activities)
+    - [be-the-bouncer](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/a-intro-to-loops/be-the-bouncer/app.js)
+    - [blue-team-vs-red-team](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/a-intro-to-loops/blue-team-vs-red-team/app.js)
+    - [color-my-chessboard](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/a-intro-to-loops/color-my-chessboard/app.js)
 
 2. Intro to functions and methods
-    - [help-wall-e](https://github.com/Jmnahan/avion-school-activities)
-    - [schools-out](https://github.com/Jmnahan/avion-school-activities)
-    - [whats-in-the-fridge](https://github.com/Jmnahan/avion-school-activities)
+    - [help-wall-e](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/b-intro-to-functions-and-methods/help-wall-e/app.js)
+    - [schools-out](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/b-intro-to-functions-and-methods/schools-out/app.js)
+    - [whats-in-the-fridge](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/b-intro-to-functions-and-methods/whats-in-the-fridge/app.js)
 
 3. Intro to dom
-    - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities)
+    - [listen-to-me](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/c-intro-to-dom/listen-to-me/app.js)
+    - [name-that-superpower](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/c-intro-to-dom/name-that-superpower%20copy/app.js)
 
 4. ES6 
-   - [async-await](https://github.com/Jmnahan/avion-school-activities)
-   - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities)
-   - [whats-my-address](https://github.com/Jmnahan/avion-school-activities)
+    - [whats-my-address](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/whats-my-address/app.js)
+    - [catch-the-spy](https://github.com/Jmnahan/avion-school-activities/tree/master/javascript-exercises/d-es6/catch-the-spy)
+    - [find-manny](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/find-manny/app.js)
+    - [sari-sari-store](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/sari-sari-store/app.js)
+    - [import-export](https://github.com/Jmnahan/avion-school-activities/tree/master/javascript-exercises/d-es6/import-export)
+    - [classes](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/classes/app.js)
+    - [promises](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/promises/app.js)
+    - [fetch](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/fetch/app.js)
+    - [async-await](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/d-es6/async-await/app.js)
 
 ## Back-end activities
 
