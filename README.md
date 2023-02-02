@@ -52,7 +52,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 ![Screenshot](./images/grid-activity.png)
 
-### JavaScript exercises
+## JavaScript exercises
 
 1. Intro to loops
     - [be-the-bouncer](https://github.com/Jmnahan/avion-school-activities/blob/master/javascript-exercises/a-intro-to-loops/be-the-bouncer/app.js)
@@ -97,7 +97,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 
 
-### Ruby exercises
+## Ruby exercises
 
 1. Data types 
     - [each](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/data_types_activity/each.rb)
@@ -130,7 +130,7 @@ This repo is a representation of all the activities I completed throughout the d
     - [interface-segregation](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/4_int_seg.rb)
     - [dependency-inversion](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/SOLID_activity/5_dep_inv.rb)
 
-### Coding exercises
+## Coding exercises
  - [square-of-squares](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/a_sqr_of_sqr.rb)
  - [smallest-interger](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/b_smallest_int.rb)
  - [postive-and-negatives](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/c_pos_nega.rb)
