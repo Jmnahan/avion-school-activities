@@ -39,8 +39,7 @@ This repo is a representation of all the activities I completed throughout the d
 
 ![Screenshot](./images/chessboard-app.png)
 
-#### [8. Lax App/Slack App (Collaboration project) ]
-- [Code repo](https://github.com/Jmnahan/lax-app)
+#### [8. Lax App/Slack App (Collaboration project)](https://github.com/Jmnahan/lax-app)
 
 ![Screenshot](./images/lax-app.png)
 
@@ -84,9 +83,7 @@ This repo is a representation of all the activities I completed throughout the d
 #### [1. Blog App ](https://github.com/Jmnahan/blog)
 
 
-
 #### [2. Journal App ](https://github.com/Jmnahan/journal_app)
-
 
 
 #### [3. Trading App (Collaboration project) ](https://github.com/Jmnahan/trading_app)
@@ -96,7 +93,6 @@ This repo is a representation of all the activities I completed throughout the d
 
 
 #### 5. Capstone Project (Collaboration project) 
-
 
 
 ## Ruby exercises
