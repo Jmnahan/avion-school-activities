@@ -92,8 +92,10 @@ This repo is a representation of all the activities I completed throughout the d
 #### [3. Trading App (Collaboration project) ](https://github.com/Jmnahan/trading_app)
 
 
+#### [4. Api-wrapper ](https://github.com/Jmnahan/rawg_wrapper)
 
-#### [4. Capstone Project (Collaboration project) ]
+
+#### 5. Capstone Project (Collaboration project) 
 
 
 
