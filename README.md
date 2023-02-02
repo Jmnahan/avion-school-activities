@@ -42,6 +42,8 @@ This repo is a representation of all the activities I completed throughout the d
 #### [8. Lax App/Slack App (Collaboration project) ]
 - [Code repo](https://github.com/Jmnahan/lax-app)
 
+![Screenshot](./images/lax-app.png)
+
 #### [9. Flexbox Activity  ](https://jmnahan.github.io/batch22-fe-activities/flexbox-activity/)
 
 ![Screenshot](./images/flexbox-activity.png)
@@ -136,7 +138,7 @@ This repo is a representation of all the activities I completed throughout the d
  - [isograms](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/e_isograms.rb)
  - [uniq-in-order](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/f_uniq_in_order.rb)
  - [disemvowel](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/g_disemvowel.rb)
- - [cntury](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/h_century.rb)
+ - [century](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/h_century.rb)
  - [bart-and-lisa](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/i_bart_lisa.rb)
  - [vowel-code](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/j_vowel_code.rb)
  - [unique-number](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/k_uniqe_num.rb)
