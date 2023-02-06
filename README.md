@@ -143,4 +143,4 @@ This repo is a representation of all the activities I completed throughout the d
  - [middle-element](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/l_middle_elem.rb)
  - [sorted](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/m_sorted.rb)
  - [count-letters](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/n_count_letters.rb)
-
+ - [add-one](https://github.com/Jmnahan/avion-school-activities/blob/master/ruby-exercises/coding_exercise/o_%2B1_arr.rb)
