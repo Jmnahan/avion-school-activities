@@ -92,7 +92,7 @@ This repo is a representation of all the activities I completed throughout the d
 #### [4. Api-wrapper ](https://github.com/Jmnahan/rawg_wrapper)
 
 
-#### 5. Capstone Project (Collaboration project) 
+#### [5. What's for BLD? (Collaboration project) ](https://github.com/Jmnahan/whats-for-bld)
 
 
 ## Ruby exercises
