@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/batch22-fe-activities/bank-app/static/css/main.db1f8f33.css",
-    "main.js": "/batch22-fe-activities/bank-app/static/js/main.eae501a7.js",
+    "main.css": "/batch22-fe-activities/bank-app/static/css/main.e58ea06a.css",
+    "main.js": "/batch22-fe-activities/bank-app/static/js/main.75f2840d.js",
     "static/js/787.ab64e9c6.chunk.js": "/batch22-fe-activities/bank-app/static/js/787.ab64e9c6.chunk.js",
     "static/media/krakenimages-376KN_ISplE-unsplash.jpg": "/batch22-fe-activities/bank-app/static/media/krakenimages-376KN_ISplE-unsplash.b0c1bf4363f6ecca41b1.jpg",
     "static/media/card-bg.jpg": "/batch22-fe-activities/bank-app/static/media/card-bg.3261e91c47de7491b551.jpg",
@@ -14,12 +14,12 @@
     "static/media/Deposit.png": "/batch22-fe-activities/bank-app/static/media/Deposit.e4e8caac1ee1aa70b2bf.png",
     "static/media/Transactions.png": "/batch22-fe-activities/bank-app/static/media/Transactions.159f62ca428aa18f6b77.png",
     "index.html": "/batch22-fe-activities/bank-app/index.html",
-    "main.db1f8f33.css.map": "/batch22-fe-activities/bank-app/static/css/main.db1f8f33.css.map",
-    "main.eae501a7.js.map": "/batch22-fe-activities/bank-app/static/js/main.eae501a7.js.map",
+    "main.e58ea06a.css.map": "/batch22-fe-activities/bank-app/static/css/main.e58ea06a.css.map",
+    "main.75f2840d.js.map": "/batch22-fe-activities/bank-app/static/js/main.75f2840d.js.map",
     "787.ab64e9c6.chunk.js.map": "/batch22-fe-activities/bank-app/static/js/787.ab64e9c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db1f8f33.css",
-    "static/js/main.eae501a7.js"
+    "static/css/main.e58ea06a.css",
+    "static/js/main.75f2840d.js"
   ]
 }
