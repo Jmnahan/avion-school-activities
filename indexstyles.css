@@ -209,6 +209,10 @@ li {
 
 @media (max-width: 768px) {
 
+  .activity-link {
+    color: var(--hoverColor)
+  } 
+
   .container {
     width: 100%
   }
